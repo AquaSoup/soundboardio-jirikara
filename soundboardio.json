@@ -1,0 +1,137 @@
+{
+  "name": "Jiří Kára",
+  "shortName": "Jiří Kára",
+  "description": "Už si tady měl bejt čtyři minuty, ty magore!",
+  "author": "Sám Život",
+  "url": "https://aquasoup.com",
+  "color": "#087f23",
+  "version": "1.0.0",
+  "rootUrl": "https://soundboardio.aquasoup.com/jirikara/",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "purpose": "maskable any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Dělééj",
+      "filename": "delej.mp3"
+    },
+    {
+      "name": "Mám to v piči",
+      "filename": "mamtovpici.mp3"
+    },
+    {
+      "name": "A co jako vole?",
+      "filename": "acojakovole.mp3"
+    },
+    {
+      "name": "Duranga voe",
+      "filename": "duranga_voe.mp3"
+    },
+    {
+      "name": "Říkáš mi hezky",
+      "filename": "rikas_mi_hezky.mp3"
+    },
+    {
+      "name": "Pivo zasraný",
+      "filename": "pivo_zasrany.mp3"
+    },
+    {
+      "name": "Stránskej",
+      "filename": "kde_je_ten_stranskej.mp3"
+    },
+    {
+      "name": "Je čas klidu",
+      "filename": "cas_klidu.mp3"
+    },
+    {
+      "name": "Čůrák vydlážděnej",
+      "filename": "curak_vydlazdenej.mp3"
+    },
+    {
+      "name": "Ser na to!",
+      "filename": "ser_na_to.mp3"
+    },
+    {
+      "name": "Hlavněže máš pivo!",
+      "filename": "mas_pivo.mp3"
+    },
+    {
+      "name": "Prstýnek",
+      "filename": "prstynek.mp3"
+    },
+    {
+      "name": "SS!",
+      "filename": "ss.mp3"
+    },
+    {
+      "name": "Vstávej vokurko!",
+      "filename": "vokurko.mp3"
+    },
+    {
+      "name": "Můžeme si tady zahajlovat?",
+      "filename": "zahajlovat.mp3"
+    },
+    {
+      "name": "Co se děje?!",
+      "filename": "co_se_deje.mp3"
+    },
+    {
+      "name": "Kelt",
+      "filename": "kelt.mp3"
+    },
+    {
+      "name": "Mrdám to voe",
+      "filename": "mrdamtovoe.mp3"
+    },
+    {
+      "name": "SS division Wallonie",
+      "filename": "ssdivision.mp3"
+    },
+    {
+      "name": "Východní tažení 41-45",
+      "filename": "vychodni_tazeni.mp3"
+    },
+    {
+      "name": "Průkaz SS division",
+      "filename": "prukaz.mp3"
+    },
+    {
+      "name": "Dělej, je na stole, kytka!",
+      "filename": "kytka.mp3"
+    },
+    {
+      "name": "To je prcárna!",
+      "filename": "prcarna.mp3"
+    },
+    {
+      "name": "Poslední varování",
+      "filename": "poslednivarovani.mp3"
+    },
+    {
+      "name": "Svatební grc",
+      "filename": "grc2.mp3"
+    },
+    {
+      "name": "Samozřejmě!",
+      "filename": "samozrejme.mp3"
+    },
+    {
+      "name": "Kde máš sako?",
+      "filename": "sako.mp3"
+    },
+    {
+      "name": "Ty jsi trapnej!",
+      "filename": "trapnej.mp3"
+    }
+  ]
+}
