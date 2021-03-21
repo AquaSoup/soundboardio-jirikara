@@ -2,8 +2,11 @@
   "name": "Jiří Kára",
   "shortName": "Jiří Kára",
   "description": "Už si tady měl bejt čtyři minuty, ty magore!",
-  "author": "Sám Život",
-  "url": "https://aquasoup.com",
+  "author": {
+    "name": "Sám Život",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "cs",
   "color": "#087f23",
   "version": "1.0.0",
   "rootUrl": "https://soundboardio.aquasoup.com/jirikara/",
