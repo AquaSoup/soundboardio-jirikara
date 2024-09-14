@@ -2,13 +2,18 @@
   "name": "Jiří Kára",
   "shortName": "Jiří Kára",
   "description": "Už si tady měl bejt čtyři minuty, ty magore!",
+  "story": [
+    "Svatba Jiřího Káry je internetový fenomén, který se na YouTube objevil poprvé v roce 2008.",
+    "Záznam Károvy svatby natočil v květnu 2001 Alex Skribucký. Ženich si nechal vyhotovit dvě kopie, jednu dal svědkovi a kamarádovi Jiřímu \"Floydovi\" Horváthovi, a nechtěl, aby bylo video zveřejněno.",
+    "Kára s přáteli Milošem Ouřadou, Jiřím Horváthem a Hansem postává před večerkou ve Veletržní ulici, kde kouří a pijí pivo. Přidají se k nim Blanka Divišová a Hana, přítelkyně Miloše. Na úřadě, kde se k nim připojí Tomáš Stránský a Jiří Hovorka, je obřad několikrát přerušen kvůli rušení, téměř zrušen oddávajícím Lubošem Vayhelem."
+  ],
   "author": {
     "name": "Sám Život",
     "url": "https://aquasoup.com"
   },
   "lang": "cs",
   "color": "#087f23",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "rootUrl": "https://soundboardio.aquasoup.com/jirikara/",
   "icons": [
     {
@@ -135,6 +140,40 @@
     {
       "name": "Ty jsi trapnej!",
       "filename": "trapnej.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Svatba Jířího Káry – Remasterovaná verze [YouTube]",
+      "url": "https://www.youtube.com/watch?v=tVOhKjNqoQQ"
+    },
+    {
+      "name": "Videoklip kapely \"Papír, Sklo, Plasty\"",
+      "url": "https://www.youtube.com/watch?v=L7orWUcjV14"
+    },
+    {
+      "name": "ČSFD",
+      "url": "https://www.csfd.cz/film/282329-svatba-jiriho-kary/prehled/"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://cs.wikipedia.org/wiki/Internetov%C3%BD_mem#Svatba_Ji%C5%99%C3%ADho_K%C3%A1ry"
+    },
+    {
+      "name": "Operní árie Jiří Kára [YouTube]",
+      "url": "https://www.youtube.com/watch?v=UEax4-vACcw"
+    },
+    {
+      "name": "Video recenze – Kamil Fila [YouTube]",
+      "url": "https://www.youtube.com/watch?v=cm98hKMeijI"
+    },
+    {
+      "name": "Rozhovor s Jiřím Károu [YouTube]",
+      "url": "https://www.youtube.com/watch?v=mYsKTF0RcOM"
+    },
+    {
+      "name": "Přepis rozhovru s Jiřím Károu v Refelxu",
+      "url": "https://ultrasg12chrudim.webnode.cz/news/jirka-kara-co-bylo-dal/"
     }
   ]
 }
