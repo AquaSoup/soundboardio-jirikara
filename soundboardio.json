@@ -13,7 +13,7 @@
   },
   "lang": "cs",
   "color": "#087f23",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "rootUrl": "https://soundboardio.aquasoup.com/jirikara/",
   "icons": [
     {
@@ -144,35 +144,44 @@
   ],
   "references": [
     {
-      "name": "Svatba Jířího Káry – Remasterovaná verze [YouTube]",
+      "name": "Svatba Jířího Káry",
+      "note": "Remasterovaná verze",
+      "source": "YouTube",
       "url": "https://www.youtube.com/watch?v=tVOhKjNqoQQ"
     },
     {
       "name": "Videoklip kapely \"Papír, Sklo, Plasty\"",
+      "source": "YouTube",
       "url": "https://www.youtube.com/watch?v=L7orWUcjV14"
     },
     {
       "name": "ČSFD",
+      "year": 2000,
       "url": "https://www.csfd.cz/film/282329-svatba-jiriho-kary/prehled/"
     },
     {
-      "name": "Wikipedia",
+      "name": "Wikipedia: Jiří Kára",
       "url": "https://cs.wikipedia.org/wiki/Internetov%C3%BD_mem#Svatba_Ji%C5%99%C3%ADho_K%C3%A1ry"
     },
     {
-      "name": "Operní árie Jiří Kára [YouTube]",
+      "name": "Operní árie Jiří Kára",
+      "source": "YouTube",
+      "note": "Umělá inteligence",
       "url": "https://www.youtube.com/watch?v=UEax4-vACcw"
     },
     {
-      "name": "Video recenze – Kamil Fila [YouTube]",
+      "name": "Video recenze – Kamil Fila",
+      "source": "YouTube",
       "url": "https://www.youtube.com/watch?v=cm98hKMeijI"
     },
     {
-      "name": "Rozhovor s Jiřím Károu [YouTube]",
+      "name": "Raritní rozhovor s Jiřím Károu",
+      "source": "YouTube",
       "url": "https://www.youtube.com/watch?v=mYsKTF0RcOM"
     },
     {
-      "name": "Přepis rozhovru s Jiřím Károu v Refelxu",
+      "name": "Přepis raritního rozhovru s Jiřím Károu",
+      "source": "Reflex",
       "url": "https://ultrasg12chrudim.webnode.cz/news/jirka-kara-co-bylo-dal/"
     }
   ]
